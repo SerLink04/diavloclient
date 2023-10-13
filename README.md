@@ -1,8 +1,10 @@
 ## 🚀 DiavloClient 🚀
-##################################################################################
-### Apreciaria que dejarais una estrella en el repositorio.                    ###
-### Discord: https://discord.gg/programadores  Telegram: https://t.me/diavlodb ###
-##################################################################################
+```
+Apreciaria que dejarais una estrella en el repositorio.
+REDES SOCIALES:
+Discord: https://discord.gg/programadores
+Telegram: https://t.me/diavlodb
+```
 
 
 ¡El mejor cliente de ciberseguridad para Minecraft!, cuenta con un montón de exploits esenciales para verificar la seguridad del servidor, además de que es constantemente actualizado!!
