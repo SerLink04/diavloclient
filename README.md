@@ -1,5 +1,4 @@
-#######################
-# 🚀 DiavloClient 🚀 #
+ 🚀 DiavloClient 🚀 #
 ##################################################################################
 ### Apreciaria que dejarais una estrella en el repositorio.                    ###
 ### Discord: https://discord.gg/programadores  Telegram: https://t.me/diavlodb ###
