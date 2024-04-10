@@ -21,7 +21,7 @@ El cliente fue diseñado con el objetivo de ayudar a aquellas personas interesad
 en Minecraft, este cliente cuenta con un montón de exploits comunmente utilizados, AltManager, UUID SPOOF PREMIUM, ViaVersion
 (para todas las versiones 1.7.x-1.20.2), diversos comandos premium y free, entre otras muchas cosas
 ```
-![diavloclient](https://media.discordapp.net/attachments/1143691101081964747/1162172853844709518/image.png?ex=653af8d0&is=652883d0&hm=4e8828b32897f403703da0967c1837d10af737451ffe22b6afa529e9717d22ed&=&width=897&height=480)
+![diavloclient](https://cdn.discordapp.com/attachments/1177711929045831683/1227743297343193129/e8a4d3ae-d7c3-4194-a7df-085d4500dac6.png?ex=6629840c&is=66170f0c&hm=db58c57bcf5653e92c91da1c165465a7bf4e2abbc28369dc2ea4eb7253f86243&)
 
 ## 🌪➜ Opciones
 ¿Qué opciones tiene el cliente?
