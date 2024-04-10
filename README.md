@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="32%" src="https://cdn.discordapp.com/attachments/1143691101081964747/1162171850705612881/logotipo.png?ex=653af7e1&is=652882e1&hm=5fc90fa671f9aaf896d3bca84c732e7f5318ed03388c42d04fe9b500e0bb0323&">
+    <img width="32%" src="https://cdn.discordapp.com/attachments/1177711929045831683/1227743669667496066/logotipo.png?ex=66298465&is=66170f65&hm=4aaaf5a2cb4a71a31a77f2f03f9af45c96e19b665d0ccd9bd6f38a3bdf6fb26b&">
 </p>
 
 ## 🚀 DiavloClient 🚀
