@@ -19,7 +19,7 @@ Datos del cliente de minecraft
 ```
 El cliente fue diseñado con el objetivo de ayudar a aquellas personas interesadas en aprender más acerca de la ciberseguridad
 en Minecraft, este cliente cuenta con un montón de exploits comunmente utilizados, AltManager, UUID SPOOF PREMIUM, ViaVersion
-(para todas las versiones 1.7.x-1.20.2), diversos comandos premium y free, entre otras muchas cosas
+(para todas las versiones 1.7.x-1.20.4), diversos comandos premium y free, entre otras muchas cosas
 ```
 ![diavloclient](https://cdn.discordapp.com/attachments/1177711929045831683/1227743297343193129/e8a4d3ae-d7c3-4194-a7df-085d4500dac6.png?ex=6629840c&is=66170f0c&hm=db58c57bcf5653e92c91da1c165465a7bf4e2abbc28369dc2ea4eb7253f86243&)
 
